@@ -1,4 +1,4 @@
-s# Basic-Calculator-
+Basic-Calculator-
 My First Basic Calculator W/ 
 
 <ul>
@@ -8,6 +8,5 @@ My First Basic Calculator W/
     <li>
     Calculator Basic <a href="https://patricioconajagua.github.io/Basic-Calculator-/">here</a>
     </li>
-    
 </ul>
 
