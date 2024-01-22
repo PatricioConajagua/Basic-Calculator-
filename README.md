@@ -1,5 +1,5 @@
 # Basic-Calculator-
-Basic Calculator W/ 
+My First Basic Calculator W/ 
 <ul>
     <li>HTML</li>
     <li>CSS</li>
